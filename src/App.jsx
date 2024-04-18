@@ -8,9 +8,10 @@ function App() {
 
   return (
     <>
-      <h1>welcome to g7</h1>
+      {/* <h1>welcome to g7</h1> */}
       {/* <h1>First version</h1> */}
       <p>second version</p>
+      <h1>welcome to g10</h1>
     </>
   )
 }
